@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Vijay
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Vijay Kshirsagar
+- 👀 interested in Data Analytics
+- 🌱 currently pursuing python
+- 💞️ having masters degree in IT
+- 😄 also know My SQL and Power BI
+- 📫 feel free to collab with me on @radhe19v / vijay97da@gmail.com
+- ⚡ Fun fact: graduate in commerce & masters in IT
 
 <!---
 vijay97da/vijay97da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
